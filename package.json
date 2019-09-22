@@ -18,5 +18,9 @@
   "homepage": "https://github.com/VicSanNun/search-bot#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^6.2.0"
   }
 }

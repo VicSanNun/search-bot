@@ -7,4 +7,6 @@ const searchTerm = readline.question('Type a Wikipedia search term: ');
 
 const prefix = readline.keyInSelect(prefixes, 'Choose a option');
 
+console.log(prefix);
+
 const input = new UserInput(searchTerm, prefix);
