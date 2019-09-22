@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VicSanNun/search-bot/issues"
   },
-  "homepage": "https://github.com/VicSanNun/search-bot#readme"
+  "homepage": "https://github.com/VicSanNun/search-bot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
